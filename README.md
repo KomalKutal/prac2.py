@@ -1,1 +1,1 @@
-# prac2.py
+print('hello')
